@@ -1,0 +1,63 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+    width: 1200px;
+    height: 100px;
+    background-color: aquamarine;
+    display: flex;
+}
+
+.head {
+    width: 1200px;
+    height: 100px;
+    background-color: #eee;
+    text-align: center;
+    line-height: 100px;
+}
+
+.slide {
+    width: 1200px;
+    height: 400px;
+    background-color: #aaa;
+}
+
+.contanier {
+    width: 1200px;
+    height: 300px;
+    background-color: teal;
+    display: flex;
+}
+
+.notice {
+    width: 400px;
+    height: 300px;
+    background-color: #bbb;
+}
+
+.banner {
+    width: 400px;
+    height: 300px;
+    background-color: #ccc;
+}
+
+.go {
+    width: 400px;
+    height: 300px;
+    background-color: #ddd;
+}
+
+footer {
+    width: 1200px;
+    height: 100px;
+    background-color: wheat;
+    display: flex;
+}
+
+.copyright {
+    width: 1200px;
+    height: 100px;
+    background-color: #666;
+}
